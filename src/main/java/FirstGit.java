@@ -5,4 +5,5 @@
  **/
 public class FirstGit {
     private String name;
+    private String newName;
 }
